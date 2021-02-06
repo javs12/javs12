@@ -4,7 +4,7 @@
 let mySelf= {
   currentJob: "I'm a Software Engineer at Beek an audio company for personal development.",
   pastJob: "I worked at KarmaPulse and Teed as a Full Stack develper and freelance doing things with Grails ",
-  aboutMe: "I everything about technology and I love to learn about new things"
+  aboutMe: "I love everything about technology and I love to learn about new things"
   technologies: {
     actualTechnologies: [
       "Ruby on Rails",
