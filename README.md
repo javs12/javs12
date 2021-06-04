@@ -10,20 +10,22 @@ let mySelf= {
       "Ruby on Rails",
       "React/React Native",
       "SQL (Postgres)",
-      "Java/Android"
+      "Java/Android",
+      "RxKotlin",
+      "JavaScript",
     ],
     pastTechnologies: [
       "Node.js",
-      "Grails"
+      "Grails",
     ]
   },
   hobbies: [
     {"Watch Anime": "see you space developer ;)"},
-    {"Sports": "I love NFL #GoPats #Brady"}
+    {"Sports": "I love NFL #GoPats #Brady"},
   ],
   socialNetworks: [
     {"Instagram:" "@javieralonso.12"},
-    {"LinkedIn": "https://www.linkedin.com/in/javier-alonso-47108714a/"}
+    {"LinkedIn": "https://www.linkedin.com/in/javier-alonso-47108714a/"},
   ]
 }
 ```
