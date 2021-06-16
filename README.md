@@ -13,6 +13,7 @@ let mySelf= {
       "Java/Android",
       "RxKotlin",
       "JavaScript",
+      "GraphQL"
     ],
     pastTechnologies: [
       "Node.js",
