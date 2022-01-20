@@ -22,7 +22,7 @@ let mySelf= {
   },
   hobbies: [
     {"Watch Anime": "see you space developer ;)"},
-    {"Sports": "I love NFL #GoPats #Brady"},
+    {"Sports": "I love NFL #GoPats"},
   ],
   socialNetworks: [
     {"Instagram:" "@javieralonso.12"},
