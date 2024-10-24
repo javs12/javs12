@@ -2,8 +2,8 @@
 
 ```javascript
 let mySelf= {
-  currentJob: "I'm a Back End Engineer at Higo.io an fintech company B2B.",
-  pastJob: "I worked at Beek and KarmaPulse as a Software Enginner enginner and freelance doing things with Grails ",
+  currentJob: "I'm a Software Engineer at PayPal company.",
+  pastJob: "I worked at Senior Back End at Higo.io and Beek as a Software Enginner enginner and freelance doing things with Grails ",
   aboutMe: "I love everything about technology and I love to learn about new things"
   technologies: {
     actualTechnologies: [
